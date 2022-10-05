@@ -8,6 +8,8 @@ Contact me at pawelsobaniec6@gmail.com
 * [Grab a food](https://grabafood.vercel.app/), web application that will help you try new food
 * [Trivia quiz](https://quizgame-1xt4.vercel.app/), live quiz, where you can test your knowledge
 * [Personal portfolio](https://portfolio-infiplaya.vercel.app/), place where you can learn more about me
+* [Lost Knight](https://www.youtube.com/watch?v=9TwwR-VbXLI), a demo of game that I created for CS50x final project
+* [TVShows recommendation](https://www.youtube.com/watch?v=ui6r6xXybMo), flask app that I created for CS50 Python final project
 
 
 If you want to see more projects, check this github!
