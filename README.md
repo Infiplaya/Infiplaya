@@ -12,7 +12,3 @@ Contact me at pawelsobaniec6@gmail.com
 
 If you want to see more projects, check this github!
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=infiplaya)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infiplaya)](https://github.com/anuraghazra/github-readme-stats)
