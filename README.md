@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I’m Paweł, a passionate amateur programmer who wants to learn as much as I can about web development and build cool apps!
+I’m Paweł, a passionate programmer who wants to learn as much as I can about web development and build cool apps!
 Besides programming, I enjoy reading books, listening to my favorite music and meeting with my friends.
 Contact me at pawelsobaniec6@gmail.com
 
