@@ -7,7 +7,7 @@ Contact me at pawelsobaniec6@gmail.com
 ## My projects
 * [Grab a food](https://grabafood.vercel.app/), web application that will help you try new food
 * [Cryptosito](https://cryptosito.vercel.app/), coinmarketcap clone, that I'm currently working on
-* [Personal portfolio](https://psoban.vercel.app/), place where you can learn more about me
+* [Personal portfolio](https://pawelsobaniec.netlify.app/), place where you can learn more about me
 * [Lost Knight](https://www.youtube.com/watch?v=9TwwR-VbXLI), a demo of game that I created for CS50x final project
 * [TVShows recommendation](https://www.youtube.com/watch?v=ui6r6xXybMo), flask app that I created for CS50 Python final project
 
